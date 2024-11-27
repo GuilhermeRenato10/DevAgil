@@ -4,11 +4,11 @@
 
 | ID   |                                 Requisito NF                              | Categoria/Tipo | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: |:-------------: | :--------: | :-----------------:     |
-| RNF01 |  O sistema deve atualizar todos os dados em tempo real.                  | Eficiência     |Média       |    RNF12                |
-| RNF02 |  O sistema deve permitir acesso a vários usuários ao mesmo tempo.        | Escalabilidade |Alta        |    RF8                  |
+| RNF01 |  O sistema deve atualizar todos os dados em tempo real.                  | Eficiência     |Média       |    RF07               |
+| RNF02 |  O sistema deve permitir acesso a vários usuários ao mesmo tempo.        | Escalabilidade |Alta        |    RF02                  |
 | RNF03 |  O sistema deve gerenciar um grande volume de dados ao mesmo tempo.      | Escalabilidade |Baixa       |     -                   |
-| RNF04 |  O sistema deve garantir que todas as senhas dos usuários sejam criptografadas | Segurança|Baixa       |     -                   |
-| RNF05 |  O sistema deve garantir que os dados dos usuários fiquem protegidos     | Segurança |Baixa       |     -                   |
+| RNF04 |  O sistema deve garantir que todas as senhas dos usuários sejam criptografadas | Segurança|Baixa       |     RF01                   |
+| RNF05 |  O sistema deve garantir que os dados dos usuários fiquem protegidos     | Segurança |Baixa       |     RF01                   |
 
 
 <div style="text-align: center">
