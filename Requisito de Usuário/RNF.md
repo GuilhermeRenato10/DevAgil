@@ -14,7 +14,3 @@
 <div style="text-align: center">
 <p>Tabela 2: Requisitos Não Funcionais</p>
 </div>
-
-# 2. Referências
-
-<a href="../README.md">VOLTAR INÍCIO</a>
