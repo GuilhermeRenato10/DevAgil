@@ -20,13 +20,13 @@ Iremos desenvolver um Protótipo de alta fidelidade no Figma, para demonstrar co
 ## Protótipo
 
   ### Passo a passo para rodar o protótipo:
-    - 1° Abrir o Figma via link do projeto:
-      [Acesse o Protótipo no Figma] (https://www.figma.com/design/RdxUxzDBx2M3zjeJhEgOZa/Footbal-Manager?node-id=54-3&t=OKWWM45lRP0tgXTB-1)
+   - 1° Abrir o Figma via link do projeto:
+      [Acesse o Protótipo no Figma](https://www.figma.com/design/RdxUxzDBx2M3zjeJhEgOZa/Footbal-Manager?node-id=54-3&t=OKWWM45lRP0tgXTB-1)
 
-    - 2° Não deixar nenhuma página selecionada para que o fluxo comece da maneira correta, depois aperte as teclas "Shift + Espaço", para abrir a tela do celular e iniciar a     
+  - 2° Não deixar nenhuma página selecionada para que o fluxo comece da maneira correta, depois aperte as teclas "Shift + Espaço", para abrir a tela do celular e iniciar a     
       prototipação.
 
-    - 3° Para avançar nas telas e seguir o fluxo basta clicar em qualquer lugar da tela, exceto quando for formulário de login/cadastro que deve clicar nos campos para que o auto 
+   - 3° Para avançar nas telas e seguir o fluxo basta clicar em qualquer lugar da tela, exceto quando for formulário de login/cadastro que deve clicar nos campos para que o auto 
       preenchimento aconteça e então possa prosseguir clicando nos botões.
 
-    - 4° Assim que o cadastro/login for realizado, você será redirecionado para dentro do app, podendo assim testar todas as funcionalidades nele presentes.
+  - 4° Assim que o cadastro/login for realizado, você será redirecionado para dentro do app, podendo assim testar todas as funcionalidades nele presentes.
