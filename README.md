@@ -21,7 +21,7 @@ Iremos desenvolver um Protótipo de alta fidelidade no Figma, para demonstrar co
 
   ### Passo a passo para rodar o protótipo:
     - 1° Abrir o Figma via link do projeto:
-      https://www.figma.com/design/RdxUxzDBx2M3zjeJhEgOZa/Footbal-Manager?node-id=54-3&t=OKWWM45lRP0tgXTB-1.
+      <a href="[https://exemplo.com](https://www.figma.com/design/RdxUxzDBx2M3zjeJhEgOZa/Footbal-Manager?node-id=54-3&t=OKWWM45lRP0tgXTB-1)" target="_blank">Figma</a>
 
     - 2° Não deixar nenhuma página selecionada para que o fluxo comece da maneira correta, depois aperte as teclas "Shift + Espaço", para abrir a tela do celular e iniciar a     
       prototipação.
